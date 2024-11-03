@@ -1,0 +1,40 @@
+<!-- z 2 atrybutami do kazdego elementu -->
+<?xml version="1.0" encoding="UTF-8"?>
+<filmy>
+    <film id="1" ocena="8.8">
+        <tytul jezyk="pl" dlugosc="8">Incepcja</tytul>
+        <rezyser narodowosc="USA" wiek="53">Christopher Nolan</rezyser>
+        <rok_wydania format="rok" epoka="XXI">2010</rok_wydania>
+        <gatunek typ="science fiction" popularnosc="wysoka">Science Fiction</gatunek>
+    </film>
+    <film id="2" ocena="7.8">
+        <tytul jezyk="pl" dlugosc="6">Avatar</tytul>
+        <rezyser narodowosc="USA" wiek="69">James Cameron</rezyser>
+        <rok_wydania format="rok" epoka="XXI">2009</rok_wydania>
+        <gatunek typ="fantasy" popularnosc="wysoka">Fantasy</gatunek>
+    </film>
+    <film id="3" ocena="7.2">
+        <tytul jezyk="pl" dlugosc="12">Wielki Gatsby</tytul>
+        <rezyser narodowosc="Australia" wiek="58">Baz Luhrmann</rezyser>
+        <rok_wydania format="rok" epoka="XXI">2013</rok_wydania>
+        <gatunek typ="dramat" popularnosc="średnia">Dramat</gatunek>
+    </film>
+    <film id="4" ocena="8.7">
+        <tytul jezyk="pl" dlugosc="6">Matrix</tytul>
+        <rezyser narodowosc="USA" wiek="54">Lana Wachowski, Lilly Wachowski</rezyser>
+        <rok_wydania format="rok" epoka="XXI">1999</rok_wydania>
+        <gatunek typ="action" popularnosc="wysoka">Action</gatunek>
+    </film>
+    <film id="5" ocena="8.6">
+        <tytul jezyk="pl" dlugosc="12">Interstellar</tytul>
+        <rezyser narodowosc="USA" wiek="53">Christopher Nolan</rezyser>
+        <rok_wydania format="rok" epoka="XXI">2014</rok_wydania>
+        <gatunek typ="science fiction" popularnosc="wysoka">Science Fiction</gatunek>
+    </film>
+    <film id="6" ocena="8.8">
+        <tytul jezyk="pl" dlugosc="13">Forrest Gump</tytul>
+        <rezyser narodowosc="USA" wiek="71">Robert Zemeckis</rezyser>
+        <rok_wydania format="rok" epoka="XX" >1994</rok_wydania>
+        <gatunek typ="dramat" popularnosc="wysoka">Dramat</gatunek>
+    </film>
+</filmy>

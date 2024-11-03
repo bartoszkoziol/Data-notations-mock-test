@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filmy>
+    <film>
+        <tytul>Incepcja</tytul>
+        <rezyser>Christopher Nolan</rezyser>
+        <rok_wydania>2010</rok_wydania>
+        <gatunek>Science Fiction</gatunek>
+    </film>
+    <film>
+        <tytul>Avatar</tytul>
+        <rezyser>James Cameron</rezyser>
+        <rok_wydania>2009</rok_wydania>
+        <gatunek>Fantasy</gatunek>
+    </film>
+    <film>
+        <tytul>Wielki Gatsby</tytul>
+        <rezyser>Baz Luhrmann</rezyser>
+        <rok_wydania>2013</rok_wydania>
+        <gatunek>Dramat</gatunek>
+    </film>
+    <film>
+        <tytul>Matrix</tytul>
+        <rezyser>Lana Wachowski, Lilly Wachowski</rezyser>
+        <rok_wydania>1999</rok_wydania>
+        <gatunek>Action</gatunek>
+    </film>
+    <film>
+        <tytul>Interstellar</tytul>
+        <rezyser>Christopher Nolan</rezyser>
+        <rok_wydania>2014</rok_wydania>
+        <gatunek>Science Fiction</gatunek>
+    </film>
+    <film>
+        <tytul>Forrest Gump</tytul>
+        <rezyser>Robert Zemeckis</rezyser>
+        <rok_wydania>1994</rok_wydania>
+        <gatunek>Dramat</gatunek>
+    </film>
+</filmy>

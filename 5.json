@@ -1,0 +1,44 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year_published": 1960,
+        "rating": 4.27,
+        "is_available": true
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year_published": 1949,
+        "rating": 4.17,
+        "is_available": false
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year_published": 1925,
+        "rating": 3.91,
+        "is_available": true
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year_published": 1951,
+        "rating": 3.80,
+        "is_available": true
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "year_published": 1932,
+        "rating": 3.98,
+        "is_available": false
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "year_published": 1953,
+        "rating": 3.99,
+        "is_available": true
+    }
+]

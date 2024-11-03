@@ -1,0 +1,14 @@
+{
+    "tytul": "Incepcja",
+    "rok_wydania": 2010,
+    "ocena": 8.8,
+    "czy_oglądany": true,
+    "gatunki": ["science fiction", "thriller"],
+    "rezyser": {
+        "imie": "Christopher",
+        "nazwisko": "Nolan",
+        "wiek": 53
+    },
+    "czas_trwania_min": 148,
+    "nagrody": 4
+}
